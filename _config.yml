@@ -111,7 +111,7 @@ author:
       url: "materokatti@gmial.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      "https://www.doyun.ga"
+      url: "https://www.doyun.ga"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
