@@ -20,7 +20,7 @@ title: "Weekly Javascript Blog"
 title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
 name: "Doyun Hwang"
-description: "Frontend-Developer with Warm Heart"
+description: "Developer with Warm Heart"
 url: "https://materokatti.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
